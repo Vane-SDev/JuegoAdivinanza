@@ -5,7 +5,7 @@ Realice mejoras al juego original, agregando un limite de intentos ademas de el 
 
 ## Tutorial de Javascript: Juego de Adivinanza
 
-Link para ver el resultado: [MODELO DE JUEGO ADIVINANZA] (https://juego-adivinanza-tutorial-js.netlify.app/)
+<!--Link para ver el resultado: [MODELO DE JUEGO ADIVINANZA] (https://juego-adivinanza-tutorial-js.netlify.app/)-->
 
 Link para ver mi juego modificado: [MODELO TERMINANDO] (https)
 
